@@ -1,0 +1,2 @@
+Received Facebook error response of type OAuthException: An active access token must be used to query information about the current user.
+Received Facebook error response of type OAuthException: An active access token must be used to query information about the current user.
